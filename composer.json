@@ -1,0 +1,13 @@
+{
+    "name": "25ma/taobaoke",
+    "type": "e.g. library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "25ma",
+            "email": "25mateam@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
