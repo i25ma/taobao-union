@@ -8,6 +8,9 @@
             "email": "25mateam@gmail.com"
         }
     ],
+	"support": {
+        "source": "https://github.com/25ma/taobaoke"
+    },
     "minimum-stability": "dev",
     "require": {}
 }
