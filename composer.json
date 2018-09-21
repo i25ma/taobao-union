@@ -1,0 +1,23 @@
+{
+  "name": "25ma/taobaoke",
+  "type": "library",
+  "description": "taobaoke sdk",
+  "keywords": ["yii2","taobaoke","sdk", "php"],
+  "homepage": "http://www.25ma.com",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "25ma",
+      "email": "25mateam@gmail.com",
+      "homepage": "http://www.25ma.com",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "25ma\\taobaoke\\": "src/"
+    }
+  },
+  "require" : {
+  }
+}
