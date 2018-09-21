@@ -5,6 +5,7 @@
   "keywords": ["yii2","taobaoke","sdk", "php"],
   "homepage": "http://www.25ma.com",
   "license": "MIT",
+  "version":"1.1",
   "authors": [
     {
       "name": "25ma",
