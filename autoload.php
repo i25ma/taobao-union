@@ -38,7 +38,7 @@ if (!defined("TOP_AUTOLOADER_PATH"))
  * 注册autoLoader,此注册autoLoader只加载top文件
  * 不要删除，除非你自己加载文件。
  **/
-class Autoloader{
+class Autoloadertbk{
 
     /**
      * 类库自动加载，写死路径，确保不加载其他文件。
@@ -112,5 +112,5 @@ class Autoloader{
     }
 }
 
-spl_autoload_register('Autoloader::autoload');
+spl_autoload_register('Autoloadertbk::autoload');
 ?>
